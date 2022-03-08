@@ -71,6 +71,10 @@ nav.navbar-light .navbar-nav .nav-link:hover{
     color: black;
 }
 
+.carousel-control-next, .carousel-control-prev{
+    width: 5%;
+}
+
 h1{
     font-weight: 900;
     letter-spacing: -0.05em;
